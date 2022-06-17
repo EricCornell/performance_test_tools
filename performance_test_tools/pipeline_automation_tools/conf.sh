@@ -1,0 +1,13 @@
+user=
+ipmatch=
+port=
+password=
+mailSender=
+sendmailgroup=
+targetHost=
+prometheusURL=
+appname=
+grafanaURL=
+passid=
+token=
+mailURL=
